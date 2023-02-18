@@ -4,6 +4,24 @@
 
 ### Analytics Projects
 
+---
+<h3>
+<a href='https://github.com/drifabrizio/Scotch-Discovery'>Scotch Cluster Analysis
+
+<img src="images/scotch_visualization.png?raw=true"/>
+
+</a>
+</h3>
+
+
+---
+
+### Project Links:
+- [Data](https://github.com/drifabrizio/Scotch-Discovery/blob/main/scotch.xlsx)
+- [Code and Report](https://github.com/drifabrizio/Scotch-Discovery/blob/main/scotch_discovery.ipynb)
+
+---
+
 <h3>
 <a href='https://github.com/indyscout97/carMPGregregression'>Car MPG Regression Analysis
 
@@ -13,7 +31,7 @@
 </h3>
 
 #### *Project Team:*
-- Dria Fabrizio, Jack Beck, Jordan Waldroop
+- Cecil Fabrizio, Jack Beck, Jordan Waldroop
 
 ---
 
@@ -24,24 +42,7 @@
 
 
 ---
-### [Project 2 Title](/pdf/sample_presentation.pdf)
-### <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-### [Project 3 Title](http://example.com/)
-### <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Car MPG Regression Analysis](https://github.com/indyscout97/carMPGregregression)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
