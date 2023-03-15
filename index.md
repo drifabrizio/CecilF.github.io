@@ -43,15 +43,10 @@
 
 ---
 
-### Other Projects
+### Other Projects:
+[Twitter Bot Detection Paper](https://github.com/drifabrizio/bot-detection-paper/blob/main/Twitter%20Bot%20Detection.docx.pdf)
 
 ---
-
-<a href='[https://github.com/drifabrizio/Scotch-Discovery](https://github.com/drifabrizio/bot-detection-paper/blob/main/Twitter%20Bot%20Detection.docx.pdf)'>Twitter Bot Detection
-
-
-</a>
-</h3>
 
 
 
